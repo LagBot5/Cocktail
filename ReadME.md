@@ -6,4 +6,5 @@ Trying to make a button when it is pressed then a random cocktail is shown and a
 These ingredients helps us make the game straightforward and get certain ingredients then printing it out. Once we figure this out we can make a bartender game.
 
 ## Figma Design
-https://www.figma.com/proto/9DL4cm42SnvapSMlIp61me/Cocktail-Page?node-id=0-1&t=uKZ01uuGy3b5pU3A-1
+[https://www.figma.com/proto/9DL4cm42SnvapSMlIp61me/Cocktail-Page?node-id=0-1&t=uKZ01uuGy3b5pU3A-1](https://www.figma.com/design/9DL4cm42SnvapSMlIp61me/Cocktail-Page?node-id=0-1&t=uKZ01uuGy3b5pU3A-1)
+
